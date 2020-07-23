@@ -1,6 +1,7 @@
 <h1 align="center"> 
   <br>
-  # Weekly Calendar And Maps drawing polyline
+  Weekly Calendar And Maps drawing polyline
+  <br>
  React Native, Front End
   <br>
 </h1>

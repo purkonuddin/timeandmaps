@@ -47,7 +47,7 @@ map drawing polyline dengan library google map:
    ```
 2. Install all depedencies on the package.json
    ```
-   $ cd frontend-pos
+   $ cd timeandmaps
    $ npm install
    ```
 3. Run
